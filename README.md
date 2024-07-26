@@ -7,3 +7,10 @@ We have taken different factors and data sets to compare them and get conclusion
 - Alcohol Consumption
 - Crime Rate
 - Share of the population using the Internet
+
+
+Authors:
+- Elizabeth Romero
+- Sonia Morales
+- Isaac Silva
+- Santiago Morales
